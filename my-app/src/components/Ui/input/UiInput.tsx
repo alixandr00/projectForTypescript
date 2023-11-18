@@ -1,5 +1,5 @@
 import React, { forwardRef, useState, ChangeEvent, FocusEvent } from "react";
-import { IconButton, OutlinedInput, styled, Theme } from "@mui/material";
+import { IconButton, OutlinedInput, styled } from "@mui/material";
 import VisibilityIcon from "@mui/icons-material/Visibility";
 import VisibilityOffIcon from "@mui/icons-material/VisibilityOff";
 
